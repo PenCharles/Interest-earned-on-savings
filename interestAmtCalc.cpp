@@ -4,6 +4,11 @@
 #include <cmath>
 using namespace std;
 
+	//Author: James Saylor
+	//Description : This program will ask the user for monthly savings, interest
+	//				rate and savings goal to calculate the length of time needed
+	//				to save measured in months.
+
 //constants
 const double LOW_SAVE = 5;
 const double HIGH_SAVE = 5000;
